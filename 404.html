@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Page Not Found | Haynes Engineering &amp; Excavation</title>
+  <meta name="robots" content="noindex">
+  <style>
+    body { margin: 0; min-height: 100vh; display: grid; place-items: center; background: #191b1a; color: #e9e7e3;
+           font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; text-align: center; padding: 24px; }
+    h1 { color: #fff; margin: 24px 0 8px; }
+    a { display: inline-block; margin-top: 20px; background: #f7671e; color: #191b1a; font-weight: 700;
+        padding: .8em 1.4em; border-radius: 6px; text-decoration: none; }
+    img { width: 160px; height: auto; }
+  </style>
+</head>
+<body>
+  <main>
+    <img id="logo" src="/assets/img/logo-light.png" alt="Haynes Engineering and Excavation">
+    <h1>Page not found</h1>
+    <p>The page you're looking for doesn't exist or has moved.</p>
+    <a id="home" href="/">Go to the home page</a>
+  </main>
+  <script>
+    // Works both at the domain root and under a /repo-name/ project path.
+    (function () {
+      var m = location.pathname.match(/^\/(haynes2e-[a-z]+)\//);
+      if (m) {
+        var base = '/' + m[1] + '/';
+        document.getElementById('home').href = base;
+        document.getElementById('logo').src = base + 'assets/img/logo-light.png';
+      }
+    })();
+  </script>
+</body>
+</html>
