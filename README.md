@@ -6,12 +6,12 @@ Site work, excavation and utilities for commercial and government projects in Sp
 
 From land clearing and demolition to utilities, drainage and final grade, Haynes Engineering & Excavation brings the planning, the crew and the equipment to get your site built right from the ground up.
 
-- **25+ Years** of Undefeated Success
+- **25+ Years** of Experience
 - **Licensed** in the State of Missouri
 - **Bonded & Insured** for commercial work
 - **Our Own Fleet** of heavy equipment
 
-**Request a bid:** call [(417) 543-3431](tel:+14175433431) or use the form at [haynes2e.com](https://haynes2e.com/#contact).
+**Request a bid:** call [(417) 209-5426](tel:+14172095426) or use the form at [haynes2e.com](https://haynes2e.com/#contact).
 
 ---
 
@@ -112,7 +112,7 @@ Make the work area as accessible as possible, remove materials or objects that c
 
 ## Contact
 
-- **Phone:** [(417) 543-3431](tel:+14175433431)
+- **Phone:** [(417) 209-5426](tel:+14172095426)
 - **Location:** Springfield, Missouri
 - **Hours:** Mon–Fri 8:00 am – 4:00 pm · Sat–Sun by appointment
 - **Website:** [haynes2e.com](https://haynes2e.com/)
